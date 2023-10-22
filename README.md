@@ -2,6 +2,4 @@ Welcome to the readme file from an aspiring technical and content writer. The we
 
 All rights reserved. Thank you for your understanding. Never underestimate the power of karma! ;)
 
-For more insights into my professional journey, please visit my LinkedIn profile at https://www.linkedin.com/in/izabella-farago/. If you require a personalized CV, feel free to reach out via social media messaging or through email at fi.izabella.farago@gmail.com. I am at your service."
-
-I made a few minor adjustments to improve the text's clarity and grammar.
+For more insights into my professional journey, please visit my LinkedIn profile at https://www.linkedin.com/in/izabella-farago/. If you require a personalized CV, feel free to reach out via social media messaging or through email at fi.izabella.farago@gmail.com. I am at your service.
