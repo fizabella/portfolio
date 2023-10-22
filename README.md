@@ -1,4 +1,4 @@
-Welcome to the readme file from an aspiring technical and content writer. The [Portfolio site][1] was created with the purpose of seeking potential opportunities to enhance team documentation and other writing projects.
+Welcome to the readme file from an aspiring technical and content writer. The [portfolio site][1] was created with the purpose of seeking potential opportunities to enhance team documentation and other writing projects.
 
 All rights reserved. Thank you for your understanding. Never underestimate the power of karma! ;)
 
